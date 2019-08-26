@@ -52,7 +52,7 @@ defmodule PhoenixTokenAuth.Mixfile do
   defp deps do
     [
         {:cowboy, "~> 1.0.0"},
-        {:phoenix, "~> 1.0.2"},
+        {:phoenix, "~> 1.1.0"},
         {:ecto, "~> 1.0.3"},
         {:comeonin, "~> 2.0.0"},
         {:postgrex, ">= 0.6.0"},
