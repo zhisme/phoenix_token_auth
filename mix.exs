@@ -60,7 +60,7 @@ defmodule PhoenixTokenAuth.Mixfile do
         {:poison, "~> 1.4.0"},
         {:secure_random, "~> 0.1.0"},
         {:mailgun, "~> 0.1.1"},
-        {:timex, "~> 2.1.0"},
+        {:timex, "~> 1.0.2"},
         # DEV
         {:earmark, "~> 0.1.0", only: :dev},
         {:ex_doc, "~> 0.7.0", only: :dev},
